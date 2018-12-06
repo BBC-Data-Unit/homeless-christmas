@@ -7,6 +7,7 @@ In December 2018 we [reported](https://www.bbc.co.uk/news/uk-england-46360119) o
 ## Get the data
 
 * [Statutory homelessness and prevention and relief live tables](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness#statutory-homelessness-and-prevention-and-relief-live-tables)
+* Excel workbook: [analysis of homelessness data including population demographics](https://github.com/BBC-Data-Unit/homeless-christmas/blob/master/temphomeless.xlsx)
 
 ## Quotes and interviews
 
